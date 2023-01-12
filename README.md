@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Parth Nautiyal B.Tech CSE student in 6th Semester, in Graphic Era Deemed to be University. Batch 2019-2023.
+I am Parth Nautiyal B.Tech CSE student in 7th Semester, in Graphic Era Deemed to be University. Batch 2019-2023.
 <!--
 **parthanam/parthanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
