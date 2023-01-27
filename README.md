@@ -1,5 +1,8 @@
 ### Hi there 👋
-I am Parth Nautiyal B.Tech CSE student in 7th Semester, in Graphic Era Deemed to be University. Batch 2019-2023.
+I am Parth Nautiyal B.Tech CSE student in 8th Semester, in Graphic Era Deemed to be University. Batch 2019-2023.
+Checkout my repositories they are of the following topics:
+1. FrontEnd web Development, using HTML, CSS and JavaScript (currently learning React Framework)
+2. Machine Learning Projects
 <!--
 **parthanam/parthanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
